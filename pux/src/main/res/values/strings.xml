@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personalized User Experience</string>
+
+    <string-array name="labels_array">
+        <item>Right hand</item>
+        <item>Left hand</item>
+        <item>Hand agnostic</item>
+    </string-array>
+</resources>
